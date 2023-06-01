@@ -5,6 +5,7 @@
 
 package ICE1;
 
+import card.Card;
 import java.util.Scanner;
 public class CardTrick {
 
